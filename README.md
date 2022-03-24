@@ -10,4 +10,5 @@ Rotated bounding box annotations of HRSID[1] is available at:
 Baidu Cloud: https://pan.baidu.com/s/1FulIYUtJDWD-5EgBuHulTQ (Extraction code: rsdd)
 
 reference
+
 [1]S. Wei, X. Zeng, Q. Qu, M. Wang, H. Su and J. Shi, "HRSID: A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation," in IEEE Access, vol. 8, pp. 120234-120254, 2020, doi: 10.1109/ACCESS.2020.3005861.
